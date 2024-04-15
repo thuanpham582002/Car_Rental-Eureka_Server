@@ -1,1 +1,1 @@
-rootProject.name = "Car_Rent_Management_Server"
+rootProject.name = "eureka-server"
